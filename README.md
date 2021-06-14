@@ -1,5 +1,5 @@
 # googlesearch
-Tentei copiar, sem muitos detalhes e informações, a página do Google do rapper Lil Uzi Vert
+tentei copiar, sem muitos detalhes e informações, a página do Google do rapper lil uzi vert
 
 # Link para visualizar:
 
